@@ -1,0 +1,17 @@
+{
+  "scertGfxAds" : {
+
+    "AdsAdmob": true,
+    "BannerAdmob" : "ca-app-pub-8474779125559863/7094986264" ,
+    "InterstitialAdmob" : "ca-app-pub-8474779125559863/6009119398",
+    "AppId": "ca-app-pub-8474779125559863~2145911917",
+     "BannerFAN" : "IMG_16_9_APP_INSTALL#173186393601951_299214384332484" ,
+    "InterstitialFAN" : "IMG_16_9_APP_INSTALL#173186393601951_288058788781377"
+    
+
+
+  }
+
+
+
+}
